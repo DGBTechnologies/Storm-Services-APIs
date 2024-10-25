@@ -1,5 +1,5 @@
 # Storm-Services-APIs
-## Version: latest (dev not-fully-tested)
+## Version: 1.0.0
 
 ## Prerequisites
 1. [Docker](https://www.docker.com/) must be installed on your computer - Docker installation videos are available on youtube for [Windows](https://www.youtube.com/watch?v=ZyBBv1JmnWQ), [Linux](https://www.youtube.com/watch?v=5_EA3rBCXmU) and [macOS](https://www.youtube.com/watch?v=-EXlfSsP49A).
